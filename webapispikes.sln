@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapispikes", "webapispikes\webapispikes.csproj", "{CF2447E6-2F03-4990-BB9B-7AC99339063F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapispikes.Tests", "webapispikes.Tests\webapispikes.Tests.csproj", "{88536E06-4EF4-4205-BBD2-E4D131EDF545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2447E6-2F03-4990-BB9B-7AC99339063F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2447E6-2F03-4990-BB9B-7AC99339063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2447E6-2F03-4990-BB9B-7AC99339063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2447E6-2F03-4990-BB9B-7AC99339063F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88536E06-4EF4-4205-BBD2-E4D131EDF545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88536E06-4EF4-4205-BBD2-E4D131EDF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88536E06-4EF4-4205-BBD2-E4D131EDF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88536E06-4EF4-4205-BBD2-E4D131EDF545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
